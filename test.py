@@ -1,3 +1,4 @@
-a = b = c = 10
-a = a + b + c
-print("hello "+str(a))
+a = "楊嘉賢"
+b = "是"
+c = "廢物"
+print(a+b+c)
